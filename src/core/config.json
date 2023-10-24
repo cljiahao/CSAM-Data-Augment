@@ -1,0 +1,57 @@
+{
+  "img_type": ["png", "jpeg", "jpg", "tiff"],
+  "directories": {
+    "input": "",
+    "output": ""
+  },
+  "quantity": {
+    "good": "1000",
+    "ng": 1000,
+    "others": "0"
+  },
+  "parameter": {
+    "randomness": -11,
+    "validation": 20
+  },
+  "breakdown": {
+    "small": 0,
+    "medium": 0,
+    "big": 0
+  },
+  "font": {
+    "S": ["TKDefaultFont", 8],
+    "S_b": ["TKDefaultFont", 8, "bold"],
+    "M": ["TKDefaultFont", 10],
+    "M_b": ["TKDefaultFont", 10, "bold"],
+    "L": ["TKDefaultFont", 13],
+    "L_b": ["TKDefaultFont", 13, "bold"]
+  },
+  "hsv": {
+    "current": {
+      "Low H": "15",
+      "High H": "210",
+      "Low S": "35",
+      "High S": "255",
+      "Low V": "35",
+      "High V": "255"
+    },
+    "previous": {
+      "Low H": "15",
+      "High H": "210",
+      "Low S": "35",
+      "High S": "255",
+      "Low V": "35",
+      "High V": "255"
+    }
+  },
+  "mask": {
+    "current": {
+      "Thresh": "230",
+      "Erode": "2"
+    },
+    "previous": {
+      "Thresh": "230",
+      "Erode": "2"
+    }
+  }
+}

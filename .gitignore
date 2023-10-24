@@ -1,0 +1,9 @@
+__pycache__
+.env
+env
+breakdown
+dataset
+holder
+src/assets/big.png
+src/assets/medium.png
+src/assets/small.png
